@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 My name is Fernando Ellerbrock Theodoro, and I am a sophomore student at the Industrial Technological High School "Prof. Isaac Portal Roldán" - State University of São Paulo. 
+
 Aspiring computer engineer and fullstack developer. I love math and most things related to technology - if something interests me, I will learn it.
 
-Currently studying complex analysis
-
+- ⚙️ Currently working at a domain coloring calculator
+- 🧮 Learning complex analysis and DS&A for competitive programming
+- 📫 How to reach me: fernando.ellerbrock@gmail.com or fernando.theodoro@unesp.br
 
 <!--
 **Sekqies/Sekqies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
