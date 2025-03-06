@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fernando Ellerbrock Theodoro, and I am a senior student at the Industrial Technological High School "Prof. Isaac Portal Roldán" - State University of São Paulo. 
+My name is Fernando Ellerbrock Theodoro, and I am a freshman student at the University of São Paulo, and upcoming student at Carnegie Mellon University
 
 Aspiring computer engineer and fullstack developer. I love math and most things related to technology - if something interests me, I will learn it.
 
