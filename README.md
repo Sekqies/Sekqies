@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Fernando Ellerbrock Theodoro, and I am a freshman computer engineering student at the University of São Paulo, and upcoming student at Carnegie Mellon University. I love math and I love computing; if you have any ideas, feel free to reach out.
+My name is Fernando Ellerbrock Theodoro, and I am a second year Computer Engineering student at the University of São Paulo. I am very interested in many different topics of math and computing, and mostly use my free time exploring these. 
 
     ⚙️ Currently working on a qubit wave function complex plotter
     🧮 Learning cybersecurity and quantum computing
